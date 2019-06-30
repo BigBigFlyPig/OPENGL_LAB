@@ -43,6 +43,7 @@ int rend_type = 0;
 
 int main()
 {
+	cout << "hello world" << endl;
 	glfwInit();
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3);
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3);
