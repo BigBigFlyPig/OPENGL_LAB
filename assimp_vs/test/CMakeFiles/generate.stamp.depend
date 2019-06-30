@@ -1,0 +1,11 @@
+# CMake generation dependency list for this directory.
+D:/Project/Project2/assimp/assimp-3.3.1/cmake-modules/AddGTest.cmake
+D:/Project/Project2/assimp/assimp-3.3.1/test/CMakeLists.txt
+D:/xlxz/cmake-3.15.0-rc2-win64-x64/share/cmake-3.15/Modules/CheckCSourceCompiles.cmake
+D:/xlxz/cmake-3.15.0-rc2-win64-x64/share/cmake-3.15/Modules/CheckIncludeFile.cmake
+D:/xlxz/cmake-3.15.0-rc2-win64-x64/share/cmake-3.15/Modules/CheckLibraryExists.cmake
+D:/xlxz/cmake-3.15.0-rc2-win64-x64/share/cmake-3.15/Modules/ExternalProject.cmake
+D:/xlxz/cmake-3.15.0-rc2-win64-x64/share/cmake-3.15/Modules/FindGit.cmake
+D:/xlxz/cmake-3.15.0-rc2-win64-x64/share/cmake-3.15/Modules/FindPackageHandleStandardArgs.cmake
+D:/xlxz/cmake-3.15.0-rc2-win64-x64/share/cmake-3.15/Modules/FindPackageMessage.cmake
+D:/xlxz/cmake-3.15.0-rc2-win64-x64/share/cmake-3.15/Modules/FindThreads.cmake

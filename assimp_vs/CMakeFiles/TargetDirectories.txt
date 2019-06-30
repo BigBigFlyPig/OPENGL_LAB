@@ -1,0 +1,11 @@
+D:/OPENGL_LAB/build/CMakeFiles/uninstall.dir
+D:/OPENGL_LAB/build/CMakeFiles/UpdateAssimpLibsDebugSymbolsAndDLLs.dir
+D:/OPENGL_LAB/build/CMakeFiles/INSTALL.dir
+D:/OPENGL_LAB/build/CMakeFiles/ALL_BUILD.dir
+D:/OPENGL_LAB/build/CMakeFiles/ZERO_CHECK.dir
+D:/OPENGL_LAB/build/code/CMakeFiles/assimp.dir
+D:/OPENGL_LAB/build/code/CMakeFiles/INSTALL.dir
+D:/OPENGL_LAB/build/tools/assimp_cmd/CMakeFiles/assimp_cmd.dir
+D:/OPENGL_LAB/build/tools/assimp_cmd/CMakeFiles/INSTALL.dir
+D:/OPENGL_LAB/build/test/CMakeFiles/INSTALL.dir
+D:/OPENGL_LAB/build/test/headercheck/CMakeFiles/INSTALL.dir
